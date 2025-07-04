@@ -1,6 +1,9 @@
 # Change Log
 ### vNext
 
+
+### 0.4.0 - 2025-07-04
+
 * Add _Go To Definition_ to language server:
   * Allows navigation to referenced symbols such as classes, structures and imported models.
   * Automatic download of imported models from INTERLIS model repository for navigation.
